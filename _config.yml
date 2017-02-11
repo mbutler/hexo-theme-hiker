@@ -8,10 +8,10 @@ menu:
   Archives: archives
   Categories: categories
   Tags: tags
-  About: about
+  About: About
 rss: /atom.xml
 
-since: 2013
+since: 1997
 
 # Set default keywords (Use a comma to separate)
 keywords: ""
@@ -23,23 +23,23 @@ avatar:
   width: 124
   height: 124
   top: 0
-  url: css/images/mylogo.jpg
+  url: css/images/seal.png
 
 
 # Homepage
 # eg. home_background_image: [css/images/home-bg.jpg, http://t.cn/RMbvEza]
 home_background_image:
   enable: true
-  url: [css/images/home-bg.jpg, css/images/sample.jpg, http://t.cn/RMbvEza]
+  url: [css/images/home-bg.jpg, css/images/stonecircle.jpg]
 
 home_logo_image:
   enable: false
   border: false
-  url: css/images/homelogo.jpg
+  url: css/images/seal.png
 
 
 # AboutPage background
-about_big_image: css/images/pose.jpg
+about_big_image: css/images/stonetapes.jpg
 
 
 # Archive pagination
@@ -68,7 +68,7 @@ search:
 
 
 # comment ShortName, you can choose only ONE to display.
-duoshuo_shortname: iTimeTraveler
+duoshuo_shortname: 
 disqus_shortname:
 
 
